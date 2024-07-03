@@ -1,0 +1,14 @@
+C:\Users\karma\C#\CalculateurFactorielle\bin\Debug\net8.0\CalculateurFactorielle.exe
+C:\Users\karma\C#\CalculateurFactorielle\bin\Debug\net8.0\CalculateurFactorielle.deps.json
+C:\Users\karma\C#\CalculateurFactorielle\bin\Debug\net8.0\CalculateurFactorielle.runtimeconfig.json
+C:\Users\karma\C#\CalculateurFactorielle\bin\Debug\net8.0\CalculateurFactorielle.dll
+C:\Users\karma\C#\CalculateurFactorielle\bin\Debug\net8.0\CalculateurFactorielle.pdb
+C:\Users\karma\C#\CalculateurFactorielle\obj\Debug\net8.0\CalculateurFactorielle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karma\C#\CalculateurFactorielle\obj\Debug\net8.0\CalculateurFactorielle.AssemblyInfoInputs.cache
+C:\Users\karma\C#\CalculateurFactorielle\obj\Debug\net8.0\CalculateurFactorielle.AssemblyInfo.cs
+C:\Users\karma\C#\CalculateurFactorielle\obj\Debug\net8.0\CalculateurFactorielle.csproj.CoreCompileInputs.cache
+C:\Users\karma\C#\CalculateurFactorielle\obj\Debug\net8.0\CalculateurFactorielle.dll
+C:\Users\karma\C#\CalculateurFactorielle\obj\Debug\net8.0\refint\CalculateurFactorielle.dll
+C:\Users\karma\C#\CalculateurFactorielle\obj\Debug\net8.0\CalculateurFactorielle.pdb
+C:\Users\karma\C#\CalculateurFactorielle\obj\Debug\net8.0\CalculateurFactorielle.genruntimeconfig.cache
+C:\Users\karma\C#\CalculateurFactorielle\obj\Debug\net8.0\ref\CalculateurFactorielle.dll
