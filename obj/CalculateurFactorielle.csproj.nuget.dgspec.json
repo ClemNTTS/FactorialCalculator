@@ -63,15 +63,11 @@
           "warn": true,
           "downloadDependencies": [
             {
-              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
               "version": "[8.0.5, 8.0.5]"
             },
             {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[8.0.5, 8.0.5]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "name": "Microsoft.NETCore.App.Runtime.linux-x64",
               "version": "[8.0.5, 8.0.5]"
             }
           ],
@@ -84,7 +80,7 @@
         }
       },
       "runtimes": {
-        "win-x64": {
+        "linux-x64": {
           "#import": []
         }
       }
