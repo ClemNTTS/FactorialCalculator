@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "xKkHDY6g/bs=",
+  "dgSpecHash": "mziGNy0E1SE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\karma\\C#\\FactorialCalculator\\CalculateurFactorielle.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/clement/TestFoler/FactorialCalculator/CalculateurFactorielle.csproj",
+  "expectedPackageFiles": [
+    "/home/clement/.nuget/packages/microsoft.net.illink.tasks/8.0.5/microsoft.net.illink.tasks.8.0.5.nupkg.sha512",
+    "/home/clement/.nuget/packages/microsoft.netcore.app.runtime.win-x64/8.0.5/microsoft.netcore.app.runtime.win-x64.8.0.5.nupkg.sha512",
+    "/home/clement/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/8.0.5/microsoft.aspnetcore.app.runtime.win-x64.8.0.5.nupkg.sha512",
+    "/home/clement/.nuget/packages/microsoft.netcore.app.host.win-x64/8.0.5/microsoft.netcore.app.host.win-x64.8.0.5.nupkg.sha512"
+  ],
   "logs": []
 }

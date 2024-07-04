@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\karma\\C#\\FactorialCalculator\\CalculateurFactorielle.csproj": {}
+    "/home/clement/TestFoler/FactorialCalculator/CalculateurFactorielle.csproj": {}
   },
   "projects": {
-    "C:\\Users\\karma\\C#\\FactorialCalculator\\CalculateurFactorielle.csproj": {
+    "/home/clement/TestFoler/FactorialCalculator/CalculateurFactorielle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karma\\C#\\FactorialCalculator\\CalculateurFactorielle.csproj",
+        "projectUniqueName": "/home/clement/TestFoler/FactorialCalculator/CalculateurFactorielle.csproj",
         "projectName": "CalculateurFactorielle",
-        "projectPath": "C:\\Users\\karma\\C#\\FactorialCalculator\\CalculateurFactorielle.csproj",
-        "packagesPath": "C:\\Users\\karma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karma\\C#\\FactorialCalculator\\obj\\",
+        "projectPath": "/home/clement/TestFoler/FactorialCalculator/CalculateurFactorielle.csproj",
+        "packagesPath": "/home/clement/.nuget/packages/",
+        "outputPath": "/home/clement/TestFoler/FactorialCalculator/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\karma\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/clement/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -42,6 +42,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )",
+              "autoReferenced": true
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -53,12 +61,31 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[8.0.5, 8.0.5]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.5, 8.0.5]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[8.0.5, 8.0.5]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/245/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
         }
       }
     }
