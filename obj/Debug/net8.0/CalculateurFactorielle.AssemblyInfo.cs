@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculateurFactorielle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec7e2ceb07fcca668bbc764979152a37a48bf6b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11d39ff523e171136973a7a8035c5389b52e06c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculateurFactorielle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculateurFactorielle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

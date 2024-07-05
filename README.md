@@ -1,5 +1,5 @@
 # Factorial Calculator
-> First C# project ^^
+> First C# project ^^ | by Clément Nuttens
 
 Simple console Factorial calculator program for numbers between 1 to 50.
 You need to found the Factorial of a number ? Use this cool and simple tool !
